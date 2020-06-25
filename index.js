@@ -60,3 +60,23 @@ const nums = [
 //   }
 //   return arr
 // }
+
+// Insertion Sort
+
+// const insertionSort = arr => {
+
+//   let j, i
+
+//   for (i = 0; i < arr.length; i++) {
+
+//     const val = arr[i]
+
+//     for (j = i - 1; j > -1 && arr[j] > val; j--) {
+//       arr[j + 1] = arr[j]
+//     }
+    
+//     arr[j + 1] = val
+//   }
+
+//   return arr
+// }
